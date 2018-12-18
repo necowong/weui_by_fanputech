@@ -1,6 +1,12 @@
 # weui_by_fanputech
 Wechat ui kit
 
+# v0.1.1
+Changelog:
+
+1. 增加表单组件
+2. 增加选择组件
+
 # v0.1
 Changelog:
 
